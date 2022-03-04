@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Head Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body color",
+      "value": "Red"
+    }
+  ],
+  "description": "A really red adamancer.",
+  "image": "https://gateway.pinata.cloud/ipfs/",
+  "name": "Kham"
+}
